@@ -1,0 +1,2 @@
+# meteor_fenews
+使用meteor和angularJs实现了个前端快报的小站
